@@ -1,0 +1,127 @@
+  #followus{
+    align-items: right;
+    border-color: #c32aa3;
+}
+
+
+#followus .fab {
+  color: #c32aa3
+}
+
+
+ .navbar {
+  padding-right: -1px;
+  padding-left: 66px;
+  margin-bottom: 50px;
+  
+  }
+
+  
+/* 
+#navbarnav {
+  font-family: sans-serif;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+} */
+
+header{
+  background-color: #333;
+}
+
+/* #navbarnav  { */
+  float: left;
+  text-align: center;
+  color: red;
+}
+
+/* #navbarnav a span { */
+  font-family: 'Rye', cursive;
+  font-style: normal;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: white
+}
+
+
+#pic {
+  background-image: url("img/photo-1522512115668-c09775d6f424.jpg");
+  background-repeat:no-repeat;
+  background-color: #cccccc;
+  color:white;
+  
+}
+
+.span6 {
+  padding-right: 20px;
+  border-right: 1px solid #ddd;
+  width: 299px;
+ }
+
+#row {
+
+  margin-top: 10px;
+}
+
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+
+.card-body {
+  min-height: 335px;
+}
+
+
+
+body {
+  font-family: 'Tangerine', serif;
+}
+
+
+.float-right {
+  float: right;
+}
+
+
+.intro span {
+  font-family: 'Roboto', sans-serif;
+  font-size: 60px;
+}
+
+table {
+  font-size: 11px;
+  font-family: sans-serif;
+}
+
+.btn-primary  { background: #c32aa3;border-color: #c32aa3;
+
+}
+
+
+#para1  { background: #c32aa3;border-color: #c32aa3;
+
+}
+
+{
+  box-sizing: border-box;
+}
+
+/* Brandon's addition */
+
